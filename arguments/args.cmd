@@ -1,1 +1,1 @@
-node.exe test.js -test="Hello world"
+node.exe args.js -test="Hello world"
