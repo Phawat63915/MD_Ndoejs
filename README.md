@@ -1,2 +1,2 @@
 # MD_NodeJS
-- [arguments](./arguments)
+- [arguments](./arguments) #input from shell or command line
