@@ -10,6 +10,7 @@
 ## libraries
 - https://www.npmjs.com/package/morgan Mongodb
 - https://www.npmjs.com/package/connect-session-knex connect-session-knex is an express-session store backed by PostgreSQL, MySQL, MariaDB, MSSQL, Oracle or SQLite3, via the knex.js library.
+    - https://github.com/gx0r/connect-session-knex
 
 # libraries some of them
 - https://www.npmjs.com/package/session-file-store
